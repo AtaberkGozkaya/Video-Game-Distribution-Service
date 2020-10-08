@@ -1,4 +1,5 @@
-## Course Information CS 353 - Database Systems Management Fall 2020 
+## Course Information 
+CS 353 - Database Systems Management Fall 2020 
 
 ## Group Members 
 İrem Seven <br/> 
